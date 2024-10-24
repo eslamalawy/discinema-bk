@@ -20,16 +20,16 @@ DisCinema Backend is the server-side API for a streaming platform that focuses o
 ## Installation
 
 ### Clone the repository:
-`git clone https://github.com/eslamalawy/discinema-bk`
+`git clone https://github.com/eslamalawy/discinema-bk`  
 `cd discinema-bk`
 
 ### Install dependencies:
 `npm install`
 
 ### Set up environment variables: Create a .env file in the root directory and define the following:
-`MONGO_URI=<Your MongoDB connection string>`
-`JWT_SECRET=<Your JWT secret>`
-`PORT=<Port number>`
+`MONGO_URI=<Your MongoDB connection string>`  
+`JWT_SECRET=<Your JWT secret>`  
+`PORT=<Port number>`  
 
 ### Run the application:
 `npm start`
